@@ -1,0 +1,10 @@
+9788449efc88d38e910cc4911db2665e *DESCRIPTION
+afe4f44f0142ea845b825df8e4f55323 *LICENSE
+705b37c660a2b2eac3bb251d775cb8e8 *NAMESPACE
+8e3b176cf32639afc9bed96f86b3fbed *NEWS.md
+08778a6e5853e67a7f8ab42bca471604 *R/anchor_regression.R
+14d4353656ffe834a2422ae288fd47cf *README.md
+bc22d84213082e0c394867e49865abd6 *man/anchor_regression.Rd
+4867e105293974669a7a508f3a5ffc2e *man/examples/AnchorExample.R
+ca65116ee7aa0e7887542c6a47ecfaad *tests/testthat.R
+296728b00d6ec77aa7bafe3220a94c9c *tests/testthat/test.general_run.R
