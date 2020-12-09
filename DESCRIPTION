@@ -1,7 +1,7 @@
 Package: AnchorRegression
 Type: Package
 Title: Perform AnchorRegression
-Version: 0.1.0
+Version: 0.1.1
 Author: Simon Zimmermann
 Maintainer: Simon Zimmermann <zimmersi@hu-berlin.de>
 Description: Performs AnchorRegression proposed by Rothenhäusler et al. 2020. 
@@ -10,12 +10,12 @@ Description: Performs AnchorRegression proposed by Rothenhäusler et al. 2020.
 License: MIT + file LICENSE
 URL: https://github.com/simzim96/AnchorRegression
 BugReports: https://github.com/simzim96/AnchorRegression/issues
-Depends: R (>= 3.5.0)
-Imports: glmnet (>= 4.0-2)
+Depends: R (>= 2.0.0)
+Imports: glmnet (>= 1.4), selectiveInference (>= 1.0.0)
 Encoding: UTF-8
 RoxygenNote: 7.1.1
 Suggests: knitr, rmarkdown, testthat
 NeedsCompilation: no
-Packaged: 2020-11-29 08:55:29 UTC; simon
+Packaged: 2020-12-08 16:24:11 UTC; simon
 Repository: CRAN
-Date/Publication: 2020-12-02 09:20:02 UTC
+Date/Publication: 2020-12-09 08:50:02 UTC
